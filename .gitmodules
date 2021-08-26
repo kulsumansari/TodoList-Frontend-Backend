@@ -1,0 +1,6 @@
+[submodule "Todo-API-Mongoose-ModeSwitch"]
+	path = Todo-API-Mongoose-ModeSwitch
+	url = https://github.com/kulsumansari/Todo-API-Mongoose-ModeSwitch.git
+[submodule "Todo-Frontend-webpack"]
+	path = Todo-Frontend-webpack
+	url = https://github.com/kulsumansari/Todo-Frontend-webpack.git
